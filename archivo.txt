@@ -3,3 +3,4 @@ eduardo perez.
 estudio en la umg zona 16.
 soy estudiante de ingenieria.
 final final.
+Practica de comandos de git.
